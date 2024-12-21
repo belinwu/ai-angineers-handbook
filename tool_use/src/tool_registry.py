@@ -30,7 +30,7 @@ def parse_docstring_params(docstring: str) -> Dict[str, str]:
         elif in_params:
             if line.startswith('-') or line.startswith('*'):
                 current_param = line.lstrip('- *').split(':')[0].strip()
-                params[current_param] = ''
+                params[current_param] = line.lstrip('- *').split(':')[1].strip()
             elif current_param and line:
                 params[current_param] += ' ' + line.strip()
             elif not line:

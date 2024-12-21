@@ -7,9 +7,9 @@ def convert_currency(amount: float, from_currency: str, to_currency: str) -> str
     """Converts currency using latest exchange rates.
     
     Parameters:
-        amount: Amount to convert
-        from_currency: Source currency code (e.g., USD)
-        to_currency: Target currency code (e.g., EUR)
+        - amount: Amount to convert
+        - from_currency: Source currency code (e.g., USD)
+        - to_currency: Target currency code (e.g., EUR)
     """
     try:
         url = f"https://open.er-api.com/v6/latest/{from_currency.upper()}"
