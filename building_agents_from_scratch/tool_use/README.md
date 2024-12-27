@@ -4,6 +4,9 @@ This is the first part of the "Building Agents from scratch" series where we wil
 <img src="../../assets/tool_use.png" width="50%" alt="Tool Use Diagram">
 </p>
 
+You can find the detailed walkthrough of this project in my [Newsletter](https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part).
+
+
 ## Installing dependencies
 
 [uv](https://github.com/astral-sh/uv) is a great tool for Python dependency management. To install the requirements:
