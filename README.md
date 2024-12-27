@@ -23,6 +23,6 @@ Learn how to build AI agents from fundamental principles:
 
 ## Contact
 
-- 🔗 [LinkedIn](www.linkedin.com/in/aurimas-griciunas)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aurimas-griciunas)
 - 🔗 [X](https://x.com/Aurimas_Gr)
 - 🔗 [Newsletter](https://www.newsletter.swirlai.com/)
