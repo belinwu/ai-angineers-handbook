@@ -11,7 +11,8 @@ A comprehensive collection of resources, implementations, and best practices for
 ### [Building Agents from Scratch](building_agents_from_scratch)
 Learn how to build AI agents from fundamental principles:
 - [Tool Use](building_agents_from_scratch/tool_use)
-- Planning Strategies (Coming Soon)
+- Planning Strategies:
+  - [Reflection](building_agents_from_scratch/planning/reflection)
 - Memory (Coming Soon)
 - Evaluation (Coming Soon)
 
