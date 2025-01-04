@@ -4,7 +4,7 @@ This is the second part of the "Building Agents from scratch" series where we wi
 <img src="../../../assets/reflection.png" width="50%" alt="Reflection">
 </p>
 
-You can find the detailed walkthrough of this project in my Newsletter.
+You can find the detailed walkthrough of this project in my [Newsletter](https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part-8ca).
 
 
 ## Installing dependencies
