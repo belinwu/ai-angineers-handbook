@@ -34,7 +34,7 @@ This is part of the "Building Agents from scratch" series that will be potential
 
 5. This process will be repeated for n times in an attempt to get the best set of information possible.
 
-You can find the detailed walkthrough of this project in my [Newsletter](TBD).
+You can find the detailed walkthrough of this project in my [Newsletter](https://www.newsletter.swirlai.com/p/building-deep-research-agent-from).
 
 
 ## Running the code
