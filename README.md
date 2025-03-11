@@ -15,6 +15,7 @@ Learn how to build AI agents from fundamental principles:
   - [Reflection](building_agents_from_scratch/planning/reflection)
 - Memory (Coming Soon)
 - Evaluation (Coming Soon)
+- [Deep Research Agent](building_agents_from_scratch/deep_research_agent)
 
 ## Stay Updated
 
