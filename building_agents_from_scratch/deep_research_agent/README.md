@@ -1,6 +1,6 @@
 ## Deep Research Agent From Scratch
 
-This is part of the "Building Agents from scratch" series that will be potentially moved to it's own separate project. We will build a Deep Research Agent from scratch without using any LLM orchestration frameworks.
+This is part of the "Building Agents from scratch" series that will be potentially moved to it's own separate project. We will build a Deep Research Agent from scratch without using any LLM orchestration frameworks. We will also learn about nuances of DeepSeek-R1 family of reasoning models.
 
 ### The topology of the system we will be building is as follows:
 
@@ -46,7 +46,7 @@ You can find the detailed walkthrough of this project in my [Newsletter](TBD).
 ```bash
 cp env.example .env
 ```
-- Get your credentials for SambaNova API [here](https://fnf.dev/4aVUqro) and Tavily API [here](https://tavily.com/) and save them in the .env file under keys `SAMBANOVA_API_KEY` and `TAVILY_API_KEY` respectively.
+- Get your credentials for SambaNova API [here](https://fnf.dev/4aVUqro) and Tavily API [here](https://app.tavily.com/) and save them in the .env file under keys `SAMBANOVA_API_KEY` and `TAVILY_API_KEY` respectively.
 
 - We can now run the project:
 
